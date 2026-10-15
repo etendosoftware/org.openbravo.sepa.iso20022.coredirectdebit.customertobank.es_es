@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_ELEMENT" version="">
+  <row id="115719D1D9D64CD0BBFFBDC88A39BC73" trl="Y">
+    <value column="Name" isTrl="Y" original="Mandate Identification">Identificación del mandato</value>
+    <value column="PrintName" isTrl="Y" original="Mandate Identification">Identificación del mandato</value>
+    <value column="Description" isTrl="Y" original="Unique Mandate Reference">Referencia única de mandato (RUM)</value>
+    <value column="Help" isTrl="Y" original="Unique Mandate Reference">Referencia única de mandato (RUM)</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="419A657EF59449A7996DC4A9D422AB11" trl="Y">
+    <value column="Name" isTrl="Y" original="Mandate Date of Signature">Fecha de firma del mandato</value>
+    <value column="PrintName" isTrl="Y" original="Mandate Date of Signature">Fecha de firma del mandato</value>
+    <value column="Description" isTrl="Y" original="Date of Signing of the Mandate">Fecha de firma del mandato</value>
+    <value column="Help" isTrl="Y" original="Date of Signing of the Mandate">Fecha de firma del mandato</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="639733D7BE0D40A685418802FFD3024F" trl="Y">
+    <value column="Name" isTrl="Y" original="Transaction Type">Secuencia del adeudo</value>
+    <value column="PrintName" isTrl="Y" original="Transaction Type">Secuencia del adeudo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+</compiereTrl>
