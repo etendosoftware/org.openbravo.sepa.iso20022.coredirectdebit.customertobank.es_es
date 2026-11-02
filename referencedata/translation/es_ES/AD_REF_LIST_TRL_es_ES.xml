@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REF_LIST" version="">
+  <row id="0523342512D14638AF54A1C27C46D0AF" trl="Y">
+    <value column="Name" isTrl="Y" original="One-Off">Adeudo único</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="4D6F2462334B462CA1A75A576BF1DC14" trl="Y">
+    <value column="Name" isTrl="Y" original="First">Primer adeudo</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="4E8871FADB6A431D94B1D5AAE54DB82C" trl="Y">
+    <value column="Name" isTrl="Y" original="Final">Último adeudo</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="A532B40FF4604AC89C2356828F819150" trl="Y">
+    <value column="Name" isTrl="Y" original="Recurring">Adeudo recurrente</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

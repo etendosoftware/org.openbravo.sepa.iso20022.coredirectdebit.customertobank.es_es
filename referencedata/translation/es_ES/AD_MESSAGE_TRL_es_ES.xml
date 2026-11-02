@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_MESSAGE" version="">
+  <row id="6C5E6D2A5F634C699A4CF88F7D8A6A09" trl="Y">
+    <value column="MsgText" isTrl="Y" original="The SEPA Direct Debit Transaction Type is missing in line no. %s. Please select any of the possible values.">Falta la Secuencia del adeudo directo SEPA en la línea nº %s. Seleccione uno de los valores posibles.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="B68A0DF72E0B4FC2B1F3309534961CFF" trl="Y">
+    <value column="MsgText" isTrl="Y" original="The Date %s can't be parsed using the format %s">No se puede interpretar la fecha %s con el formato %s</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

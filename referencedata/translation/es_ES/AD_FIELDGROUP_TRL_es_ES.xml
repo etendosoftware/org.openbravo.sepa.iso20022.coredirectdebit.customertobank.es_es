@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_FIELDGROUP" version="">
+  <row id="28AA7BD9C9E542568B9B17CDED136AB7" trl="Y">
+    <value column="Name" isTrl="Y" original="SEPA Direct Debit Info">Información del adeudo directo SEPA</value>
+  </row>
+</compiereTrl>
